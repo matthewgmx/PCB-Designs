@@ -32,6 +32,26 @@ The bad practices hex inverter had drastically more noise than the good one as e
 
 
 
-For my third board I designed an 
+The goal of my third board project is to create my own Arduino that is better than a commercial Arduino.
+
 ![Screenshot 2025-04-04 173743](https://github.com/user-attachments/assets/4f8d477a-bbeb-4c0d-a2a0-1583edaf6809)
+Schematic design for board 3.
+
 ![Screenshot 2025-04-04 174552](https://github.com/user-attachments/assets/75d5f4c3-a66d-4e29-9eea-86b4dccb4847)
+Final board layout for board 3.
+
+After completing this design I found that I could improve it by better placing my decoupling capacitors C12 and C13 to better filter power line noise. I found my board produces 22% less amplitude of switching noise, but this could be improved further. 
+
+
+
+The goal of my fourth board is to create an instrument drone to measure the integrity of power sources. The device measures and calculates the thevenin voltage and resistance of power sources. This board is a four layer, double sided board, the middle two layers are both grounded, the back side is an Arduino, and the front side has the power management circuits, with smart LEDs and a buzzer.
+![image](https://github.com/user-attachments/assets/8552e86a-ed5f-4092-bec8-42b3baea5006)
+Schematic design for board 4
+
+![image](https://github.com/user-attachments/assets/d38b19a8-76b8-4806-94b3-d9bdbf4f0f24)
+Final front board layout for board 4.
+
+![image](https://github.com/user-attachments/assets/25bb8ba6-d0fe-4d70-bb7d-13259934b4d4)
+Final back board layout for board 4.
+
+I am in the process of building this board, so no analysis has been done yet.
