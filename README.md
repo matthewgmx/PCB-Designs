@@ -1,4 +1,5 @@
 PCB Design Portfolio
+___________________________________________________________________________________________________________
 My name is Matthew Gorbold McCardle, and I am an electrical engineering student set to graduate in May 2026. This repository serves as a portfolio of my PCB design work using Altium. To date, I have designed four boards, progressing from foundational test designs to complex, practical applications. All Altium design files are included in this repository for review. Feel free to reach out to me on LinkedIn: www.linkedin.com/in/matthewgorboldmccardle
 ___________________________________________________________________________________________________________
 Table of Contents
